@@ -82,8 +82,7 @@ Automated bad loan detection system with comprehensive data quality auditing for
 
 ✅ Python for Data Analytics - Coursera  
 ✅ Google Data Analytics Professional Certificate - Coursera  
-📚 Advanced Machine Learning & Deep Learning (in progress)  
-📚 Preparing for Government Exams (IBPS RRB, TCS NQT)  
+📚 Advanced Machine Learning & Deep Learning (in progress)   
 
 ---
 
@@ -98,7 +97,7 @@ Automated bad loan detection system with comprehensive data quality auditing for
 
 ## 🤝 Let's Connect!
 
-📧 **Email**: lokesh.gaddam14@gmail.com  
+📧 **Email**: lokeshgaddam2514@gmail.com  
 💼 **LinkedIn**: [linkedin.com/in/lokeshgaddam](https://www.linkedin.com/in/lokeshgaddam)  
 🐙 **GitHub**: [@LokeshGaddam14](https://github.com/LokeshGaddam14)  
 
@@ -109,7 +108,6 @@ Automated bad loan detection system with comprehensive data quality auditing for
 - 🔍 Building a comprehensive portfolio of data science projects
 - 📚 Deep diving into advanced ML algorithms and optimization techniques
 - 💼 Actively applying for data analyst and junior BA roles
-- 🎯 Preparing for competitive government job exams
 - 🤖 Exploring quantitative trading strategies and their backtesting
 
 ---

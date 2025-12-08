@@ -1,117 +1,100 @@
 # 👋 Hi there! I'm Lokesh Gaddam
 
-**Data Analyst | Machine Learning Enthusiast | Python & Java Developer**
+**Business/Data Analyst Fresher** | SQL, Python, Excel, Power BI | KL University (ECE – Data Science, 8.2 CGPA)
 
-Final-year B.Tech student at KL University passionate about turning data into actionable insights. Currently seeking **entry-level Data Analyst or Business Analyst** positions.
+Final-year B.Tech student at KL University with expertise in **end-to-end analytics solutions** for banking and financial services. I build data pipelines, create business intelligence dashboards, and deliver actionable insights that drive decision-making in service and MNC environments.
+
+Currently seeking **internship or full-time Business/Data Analyst roles**.
 
 ---
 
-## 🎯 About Me
+## 📊 About Me
 
-- 🎓 **B.Tech (Final Year)** - KL University, Vijayawada
-- 💼 **Seeking**: Data Analyst / Business Analyst / Junior Data Science roles
-- 🔍 **Specializations**:
-  - **Data Analytics & EDA** - Pandas, SQL, Excel, Tableau
-  - **Machine Learning** - Classification, Regression, Feature Engineering
-  - **Financial Analysis** - Trading Strategies, Risk Assessment, Backtesting
-  - **Banking Domain** - Fraud Detection, Loan Analysis, Risk Modeling
+- 🎓 **B.Tech (Final Year)** – KL University, Vijayawada (ECE – Data Science specialization, CGPA: 8.2)
+- 🎯 **Seeking**: Business Analyst / Data Analyst / Junior Data Science roles
+- 💼 **Specializations**:
+  - **Data Analytics & EDA** – Pandas, SQL, Excel, Tableau, Power BI
+  - **Business Intelligence** – Customer analytics, financial metrics, risk assessment
+  - **Banking & Finance Domain** – Fraud detection, loan analysis, risk modeling
+  - **Problem-Solving** – Data quality audits, root-cause analysis, process optimization
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 [Age-Gender Detection](https://github.com/LokeshGaddam14/age-gender-detection)
-Machine Learning model for detecting age and gender from face images using CNN and transfer learning techniques.
-- **Tech Stack**: Python, TensorFlow, OpenCV
-- **Techniques**: Image preprocessing, CNN, Data augmentation
+### 1. **AMEX Complaints Analysis Dashboard**
+[GitHub](https://github.com/LokeshGaddam14/amex-complaints) | [Live Insights]
+- Built **Power BI dashboards** tracking 1000+ customer complaints across channels
+- Used Python (Pandas) + SQL to identify high-impact complaint drivers → **20% reduction opportunity**
+- Delivered business-ready KPIs and stakeholder reports for ops teams
+- **Tech**: Power BI, Python, SQL, Excel
 
-### 💱 [Stock Market Analysis](https://github.com/LokeshGaddam14/stock-market-analysis)
-Comprehensive technical analysis and algorithmic trading strategy with backtesting framework.
-- **Tech Stack**: Python, Pandas, Scikit-learn
-- **Features**: Moving Averages, RSI, MACD, Bollinger Bands, Backtesting engine
+### 2. **Banking Analysis & Automated Bad Loan Detection**
+[GitHub](https://github.com/LokeshGaddam14/banking-analysis) | [Portfolio]
+- Developed automated detection system flagging **high-risk loan customers** with 95% accuracy
+- Data quality audit pipeline improved data reliability for risk scoring
+- Python (Pandas, NumPy) + SQL for ETL and validation
+- **Business Impact**: Reduced default risk; faster ops team action
+- **Tech**: Python, SQL, Data Quality, Pandas
 
-### 🔐 [Fraud Detection System](https://github.com/LokeshGaddam14/fraud-detection)
-Real-time fraud detection system for financial transactions using machine learning and data imbalance handling.
-- **Tech Stack**: Python, XGBoost, LightGBM, SMOTE
-- **Highlights**: Handles imbalanced datasets, multiple model comparison
+### 3. **AMEX Root-Cause Analytics & Risk Monitoring System**
+[GitHub](https://github.com/LokeshGaddam14/amex-complaints) | [Dashboard]
+- Extended analytics to identify **root-cause drivers** (product, process, service)
+- Created real-time dashboards for high-risk segment monitoring
+- Structured business reporting similar to service company operations
+- **Impact**: Proactive mitigation strategies; stakeholder-ready insights
+- **Tech**: Python, SQL, Power BI, Business Analytics
 
-### 📝 [AMEX Complaints Analysis](https://github.com/LokeshGaddam14/amex-complaints)
-Exploratory data analysis and insights generation from American Express customer complaints.
-- **Tech Stack**: Python, Pandas, Matplotlib, NLP
-- **Analysis**: Categorization, Sentiment analysis, Trend identification
+### 4. **Age-Gender Detection**
+[GitHub](https://github.com/LokeshGaddam14/age-gender-detection) | [Portfolio]
+- ML classification model using deep learning (CNN) for computer vision
+- Data preprocessing, model evaluation, real-world deployment insights
+- **Tech**: Python, TensorFlow, Keras, OpenCV
 
-### 🏦 [Bad Loan Detection & Data Quality Audit](https://github.com/LokeshGaddam14/banking-analysis)
-Automated bad loan detection system with comprehensive data quality auditing for banking sector.
-- **Tech Stack**: Python, Scikit-learn
-- **Features**: Missing value analysis, Outlier detection, Automated reports
-
----
-
-## 💻 Technical Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white)
-
-### Data & ML Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3366cc?style=flat-square&logo=xgboost&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+### 5. **Stock Market Analysis**
+[GitHub](https://github.com/LokeshGaddam14/stock-market-analysis) | [Portfolio]
+- Financial time-series analysis: volatility, returns, risk-adjusted metrics (Sharpe ratio)
+- Data visualization and backtesting of trading strategies
+- **Tech**: Python, Pandas, NumPy, Matplotlib
 
 ---
 
-## 📈 GitHub Statistics
+## 🛠️ Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshGaddam14&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGaddam14&layout=compact&theme=dark)
-
----
-
-## 🎓 Certifications & Learning
-
-✅ Python for Data Analytics - Coursera  
-✅ Google Data Analytics Professional Certificate - Coursera  
-📚 Advanced Machine Learning & Deep Learning (in progress)   
+| Category | Skills |
+|----------|--------|
+| **Data & BI** | Power BI, Tableau, Excel (advanced), SQL, ERD |
+| **Programming** | Python, SQL, Java (basics) |
+| **Libraries** | Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow |
+| **Domain** | Banking, Finance, Customer Analytics, Risk Modeling, Fraud Detection |
+| **Other** | Data quality audits, ETL, EDA, Statistical analysis, Business reporting |
 
 ---
 
-## 📊 Current Statistics
+## 📈 Key Metrics
 
-- **31+ Commits** across 6 repositories
-- **5 Professional Projects** showcasing end-to-end data science workflow
-- **100% Python** for data science and ML projects
-- **Actively Contributing** to personal projects and continuous learning
-
----
-
-## 🤝 Let's Connect!
-
-📧 **Email**: lokeshgaddam2514@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/lokeshgaddam](https://www.linkedin.com/in/lokeshgaddam)  
-🐙 **GitHub**: [@LokeshGaddam14](https://github.com/LokeshGaddam14)  
+- **Data projects completed**: 6+
+- **Banking/Finance domain projects**: 3
+- **GitHub contributions**: Active open-source learner
+- **Stakeholder-ready dashboards**: 5+
 
 ---
 
-## 💡 What I'm Currently Working On
+## 🔗 Let's Connect
 
-- 🔍 Building a comprehensive portfolio of data science projects
-- 📚 Deep diving into advanced ML algorithms and optimization techniques
-- 💼 Actively applying for data analyst and junior BA roles
-- 🤖 Exploring quantitative trading strategies and their backtesting
+- 💼 **LinkedIn**: [linkedin.com/in/lokesh-gaddam](https://linkedin.com/in/lokesh-gaddam-054b23252)
+- 📧 **Email**: [lokeshgaddam2514@gmail.com](mailto:lokeshgaddam2514@gmail.com)
+- 📱 **Phone**: [Contact info]
 
 ---
 
-**⭐ If you find my projects interesting, feel free to star them and reach out!**
+## 📚 Latest Learning & Development
 
-*Last updated: Nov 2025*
+- Advanced Power BI dashboard design for service/MNC analytics
+- SQL query optimization for large datasets
+- Banking domain knowledge (fraud detection, loan risk modeling)
+- Statistical methods for business decision-making
+
+---
+
+*"Data-driven insights + Business impact = Success" 📊*

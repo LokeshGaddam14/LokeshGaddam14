@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Lokesh Gaddam
 
-**Business/Data Analyst Fresher** | SQL, Python, Excel, Power BI | KL University (ECE – Data Science, 8.2 CGPA)
+**Business/Data Analyst Fresher** | SQL, Python, Excel, Power BI |
 
 Final-year B.Tech student at KL University with expertise in **end-to-end analytics solutions** for banking and financial services. I build data pipelines, create business intelligence dashboards, and deliver actionable insights that drive decision-making in service and MNC environments.
 

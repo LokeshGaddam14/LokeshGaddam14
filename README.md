@@ -84,7 +84,7 @@ Currently seeking **internship or full-time Business/Data Analyst roles**.
 
 - 💼 **LinkedIn**: [linkedin.com/in/lokesh-gaddam](https://linkedin.com/in/lokesh-gaddam-054b23252)
 - 📧 **Email**: [lokeshgaddam2514@gmail.com](mailto:lokeshgaddam2514@gmail.com)
-- 📱 **Phone**: [Contact info]
+- 📱 **Phone**: 6302008804
 
 ---
 

@@ -6,7 +6,7 @@
 **B.Tech ECE (Data Science) — KL University, Vijayawada | CGPA: 8.2 | Graduating May 2026**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gaddam-054b23252)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshgaddam14.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshgaddam14.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgaddam2514@gmail.com)
 
 </div>
@@ -15,9 +15,9 @@
 
 ## About
 
-Final-year ECE student specializing in Data Science. I build end-to-end analytics solutions — from raw data cleaning to BI dashboards to ML models — with a focus on banking, finance, and operations domains.
+Final-year ECE student specializing in Data Science. I build end-to-end analytics solutions — raw data → EDA → BI dashboards — with a focus on banking, finance, and operations domains.
 
-Currently open to **Data Analyst / Business Analyst** roles (full-time or internship).
+Open to **Data Analyst / Business Analyst** roles (full-time or internship, May 2026).
 
 ---
 
@@ -25,55 +25,64 @@ Currently open to **Data Analyst / Business Analyst** roles (full-time or intern
 
 | Layer | Tools |
 |---|---|
-| **Analytics & BI** | Power BI (DAX, Power Query), Tableau, Excel |
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn) |
+| **BI & Visualization** | Power BI (DAX, Power Query), Excel (Pivot Tables, Slicers), Tableau |
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | **Database** | SQL, BigQuery |
-| **ML / DL** | TensorFlow, Keras, OpenCV, Scikit-learn |
-| **Domain Knowledge** | Fraud Detection, Loan Risk, Customer Analytics, EDA |
+| **ML** | Scikit-learn, TensorFlow |
+| **Domain** | Banking & Loan Risk, E-commerce Analytics, Healthcare Insurance, Ride-hailing Ops |
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🏦 [Fraud Detection System](https://github.com/LokeshGaddam14/fraud-detection)
-> ML pipeline on IEEE-CIS dataset (73K+ transactions) for real-time financial fraud detection.
-- Feature engineering on transactional + identity data
-- XGBoost / Random Forest classifiers with cross-validation
-- Business-focused threshold tuning to minimize false negatives
-- **Stack**: Python, Scikit-learn, Pandas, Jupyter
-
----
-
-### 🏛 [Banking Analysis — Bad Loan Detection](https://github.com/LokeshGaddam14/banking-analysis)
-> Automated system to flag high-risk loan customers using historical banking data.
-- ETL pipeline with data quality audit
-- Risk-scoring model for loan default prediction
-- Stakeholder-ready summary outputs
-- **Stack**: Python, Pandas, NumPy, SQL
+### 📊 [E-Commerce Sales Dashboard — Power BI](https://github.com/LokeshGaddam14/ecommerce-sales-dashboard)
+> End-to-end Power BI dashboard analyzing e-commerce sales, profit, and regional performance.
+- KPIs: YTD Sales, YTD Profit, Profit Margin, Units Sold
+- Drill-down by product category, region, and time period
+- DAX measures for dynamic KPI calculations
+- **Stack**: Power BI, DAX, Power Query, Excel
 
 ---
 
-### 📊 [AMEX Complaints Analysis Dashboard](https://github.com/LokeshGaddam14/amex-complaints)
-> EDA and Power BI dashboard on 1,000+ customer complaints to identify resolution bottlenecks.
-- Root-cause analysis by complaint type, channel, and product
-- KPI tracking dashboard for ops teams
-- **Stack**: Python, Power BI, SQL, Excel
+### 📋 [Excel Sales Dashboard — 9,994 Orders](https://github.com/LokeshGaddam14/excel-sales-dashboard)
+> Interactive Excel dashboard with pivot tables and slicers analyzing 9,994 e-commerce transactions.
+- Dynamic slicers for category, region, and time filtering
+- Sales trends, top products, and profitability breakdown
+- **Stack**: Excel (Pivot Tables, Slicers, Charts)
 
 ---
 
-### 📈 [Stock Market Analysis](https://github.com/LokeshGaddam14/stock-market-analysis)
-> Technical analysis and backtesting framework for equity trading strategies.
-- Volatility, returns, and risk-adjusted metrics (Sharpe ratio)
-- Strategy backtesting with visualization
-- **Stack**: Python, Pandas, NumPy, Matplotlib
+### 🏥 [MediBuddy Insurance EDA](https://github.com/LokeshGaddam14/Medibuddy_Insurance_EDA)
+> Exploratory analysis of MediBuddy health insurance data to uncover claim charge patterns.
+- Demographic profiling: age, BMI, region, smoker status vs. claim charges
+- Lifestyle factor correlation with insurance costs
+- Business recommendations for pricing and risk segmentation
+- **Stack**: Python, Pandas, Matplotlib, Seaborn
 
 ---
 
-### 👁 [Age & Gender Detection](https://github.com/LokeshGaddam14/age-gender-detection)
-> Deep learning model for real-time age/gender classification from images.
-- CNN architecture with OpenCV integration
-- Trained and evaluated on benchmark dataset
-- **Stack**: Python, TensorFlow, Keras, OpenCV
+### 🏦 [Bank Loan Default Risk Analysis — 49,278 Records](https://github.com/LokeshGaddam14/bank-loan-default-analysis)
+> Risk analysis identifying default drivers across 49,278 loan records.
+- Key drivers: LTV ratio, income segment, loan purpose
+- Python EDA + SQL queries + Power BI risk dashboard
+- Actionable segmentation for credit risk decision-making
+- **Stack**: Python, SQL, Power BI, Pandas
+
+---
+
+### 🛒 [Superstore Python + SQL Analysis](https://github.com/LokeshGaddam14/superstore-python-sql-analysis)
+> Combined Python and SQL sales analysis surfacing 5 business insights with visualizations.
+- Revenue breakdown by category, region, and customer segment
+- SQL-driven aggregations + Python visualization layer
+- **Stack**: Python, SQL, Pandas, Matplotlib
+
+---
+
+### 🚗 [Uber Supply-Demand Gap EDA](https://github.com/LokeshGaddam14/uber-eda-analysis)
+> EDA on Uber trip data to identify supply-demand imbalance patterns by time and route.
+- Peak hour and route-level demand gap analysis
+- Driver availability correlated to cancellation rates
+- **Stack**: Python, Pandas, Seaborn, Matplotlib
 
 ---
 
@@ -98,7 +107,7 @@ KL University, Vijayawada | 2022–2026 | CGPA: **8.2**
 
 <div align="center">
 
-*Open to Data Analyst, Business Analyst, and Junior Data Science opportunities.*  
-*Drop a mail or connect on LinkedIn — I respond fast.*
+*Open to Data Analyst and Business Analyst opportunities — full-time from May 2026.*  
+*Connect on LinkedIn or drop a mail.*
 
 </div>

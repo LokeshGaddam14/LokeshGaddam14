@@ -6,7 +6,7 @@
 **B.Tech ECE (Data Science) — KL University, Vijayawada | CGPA: 8.3 | Graduating May 2026**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gaddam-054b23252)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]](https://lokeshgaddam14.github.io/Portofolio/index.html)
+[![Portfolio][![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshgaddam14.github.io/Portofolio/index.html)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgaddam2514@gmail.com)
 
 </div>

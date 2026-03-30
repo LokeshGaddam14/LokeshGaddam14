@@ -102,9 +102,7 @@ I work backwards from the business decision, not forwards from the data. Every p
 
 <div align="center">
 
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshGaddam14&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGaddam14&layout=compact&theme=default&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LokeshGaddam14&theme=default&hide_border=true)
 

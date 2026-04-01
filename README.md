@@ -6,7 +6,7 @@
 
 ### Data Analyst · Power BI · Python · SQL
 
-**B.Tech ECE (Data Science) — KL University, Vijayawada | CGPA: 8.2 | Graduating May 2026**
+**B.Tech ECE (Data Science) — KL University, Vijayawada | CGPA: 8.3 | Graduating May 2026**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gaddam-data-analyst)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshgaddam14.github.io/Portofolio/index.html)

@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/lokesh-gaddam-054b23252)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3FB950)]((https://lokeshgaddam14.github.io/Portofolio/index.html))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3FB950)](https://lokeshgaddam14.github.io/Portofolio/index.html)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lokeshgaddam2514@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=LokeshGaddam14&style=for-the-badge&color=3fb950&label=PROFILE+VIEWS)](https://github.com/LokeshGaddam14)
 

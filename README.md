@@ -1,4 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a3c5e,100:2e86c1&height=200&section=header&text=Lokesh%20Gaddam&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%7C%20KL%20University&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:06b6d4&height=220&section=header&text=Lokesh%20Gaddam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descSize=17)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer+%F0%9F%A4%96;Building+Production-Grade+AI+Systems+%F0%9F%9A%80;LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+WebSockets;20-Day+AI+Build+Challenge+%E2%9C%85)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -7,76 +13,133 @@
 |  |  |  |
 |---|---|---|
 | 🎓 | **Education** | B.Tech ECE + Data Science @ KL University &nbsp;&#124;&nbsp; CGPA: 8.2 / 10 |
-| 💼 | **Role** | Data Analyst |
-| 🔧 | **Stack** | SQL · Python · Power BI · Machine Learning · Excel |
-| 💻 | **Languages** | Python · SQL · DAX |
-| 🚀 | **Currently** | Building real-world data projects & applying to analyst roles |
-| 🎯 | **Looking For** | Data Analyst / Business Analyst roles |
+| 💼 | **Role** | AI Automation Engineer |
+| 🔧 | **Stack** | Python · FastAPI · LangGraph · React · TypeScript · Redis · PostgreSQL |
+| 🤖 | **Specialty** | Multi-agent AI systems · Voice AI · Real-time pipelines |
+| 🚀 | **Currently** | 20-Day AI Automation Build Challenge — shipping production AI daily |
+| 🎯 | **Looking For** | AI Engineer · Full-Stack AI · Automation Engineer roles |
 | 📬 | **Contact** | [lokeshgaddam2514@gmail.com](mailto:lokeshgaddam2514@gmail.com) |
 
 ---
 
-### 🛠️ Tech Stack
+## 🏗️ Featured Project — Aria AI Voice Receptionist
 
-**Analytics & Visualization**
+> **Production-grade AI voice receptionist for dental clinics (Indian market)**
+> Built end-to-end in 19 days as part of a 20-day AI challenge
+
+```
+📞 Incoming Call → Bolna Voice Platform → FastAPI Backend
+        ↓                                        ↓
+   LangGraph Multi-Agent              Redis Session State
+   (Greeting → Booking                PostgreSQL Archival
+    → Info → Escalation)             Google Calendar API
+        ↓                            Twilio SMS/WhatsApp
+   Live Admin Dashboard  ←──── WebSocket Real-time Stream
+   (React + TypeScript)
+```
+
+| Feature | Status |
+|---|---|
+| LangGraph multi-agent orchestration | ✅ Production |
+| Redis + PostgreSQL 2-tier memory | ✅ Production |
+| FastAPI REST API (25+ endpoints) | ✅ Production |
+| React admin dashboard (7 pages) | ✅ Production |
+| Bolna voice integration + webhooks | ✅ Production |
+| Real-time live call monitoring | ✅ Production |
+| CSV / PDF export & analytics | ✅ Production |
+| Google Calendar + Twilio | ✅ Production |
+
+**6,200+ lines of code · 25+ API endpoints · 7 dashboard pages**
+
+🔗 [**View Repository →**](https://github.com/LokeshGaddam14/ai-automation-engineer-journey)
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & Agents**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 
-**BI & Databases**
+**Backend & APIs**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Machine Learning**
+**Frontend**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0093D5?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Tools**
+**Integrations**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🏦 **[Bank Loan Default Analysis](https://github.com/LokeshGaddam14/bank-loan-default-analysis)** | Risk analysis on 49,278 loan records — identified LTV ratio, income segment & loan purpose as top default drivers | Python · SQL · Power BI | [Repo](https://github.com/LokeshGaddam14/bank-loan-default-analysis) |
-| 🛍️ **[E-Commerce Sales Dashboard](https://github.com/LokeshGaddam14/ecommerce-sales-dashboard)** | Sales, profit & regional performance dashboard built for stakeholder reporting | Power BI · Excel | [Repo](https://github.com/LokeshGaddam14/ecommerce-sales-dashboard) |
-| 🏥 **[MediBuddy Insurance EDA](https://github.com/LokeshGaddam14/Medibuddy_Insurance_EDA)** | EDA on health insurance data — correlation between age, BMI, smoking status & claim charges | Python · Pandas · Seaborn | [Repo](https://github.com/LokeshGaddam14/Medibuddy_Insurance_EDA) |
-| 🚗 **[Uber Supply-Demand EDA](https://github.com/LokeshGaddam14/uber-eda-analysis)** | Peak hour patterns, surge zones & trip duration distributions | Python · Pandas | [Repo](https://github.com/LokeshGaddam14/uber-eda-analysis) |
-| 🏪 **[Superstore Python + SQL Analysis](https://github.com/LokeshGaddam14/superstore-python-sql-analysis)** | 5 business insights on profit leakage, discount strategy & regional performance | Python · SQL | [Repo](https://github.com/LokeshGaddam14/superstore-python-sql-analysis) |
-| 📊 **[Excel Sales Dashboard](https://github.com/LokeshGaddam14/excel-sales-dashboard)** | Pivot table + slicer dashboard analyzing 9,994 e-commerce orders across top categories | Excel | [Repo](https://github.com/LokeshGaddam14/excel-sales-dashboard) |
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Bolna](https://img.shields.io/badge/Bolna_Voice-6366F1?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📅 20-Day AI Automation Challenge
 
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshGaddam14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGaddam14&layout=compact&theme=tokyonight&hide_border=true)
+| Day | Project | Status |
+|-----|---------|--------|
+| Day 1–5 | AI foundations, LangChain basics, prompt engineering | ✅ |
+| Day 6–10 | Multi-agent systems, RAG pipelines, tool use | ✅ |
+| Day 11–13 | Automation workflows, API integrations | ✅ |
+| Day 14 | Redis + PostgreSQL memory layer | ✅ |
+| Day 15 | LangGraph orchestration + Google Calendar + Twilio | ✅ |
+| Day 16 | FastAPI backend with 25+ endpoints + Docker | ✅ |
+| Day 17 | React + TypeScript admin dashboard | ✅ |
+| Day 18 | Advanced analytics, CSV/PDF exports, filters | ✅ |
+| Day 19 | Bolna voice integration + live call monitoring | ✅ |
+| Day 20 | Portfolio polish + production deployment | 🔄 |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LokeshGaddam14&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+🔗 [**Follow the full journey →**](https://github.com/LokeshGaddam14/ai-automation-engineer-journey)
 
 ---
 
-### 🤝 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-gaddam-054b23252)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgaddam2514@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshgaddam14.github.io/Portofolio/index.html)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LokeshGaddam14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGaddam14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LokeshGaddam14&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshgaddam)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LokeshGaddam14)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgaddam2514@gmail.com)
+
+</div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2e86c1,100:1a3c5e&height=100&section=footer)
+<div align="center">
 
-*Open to Data Analyst roles — feel free to reach out!*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6366f1&height=100&section=footer)
+
+*"Shipping production AI systems, one day at a time."* 🚀
+
+</div>

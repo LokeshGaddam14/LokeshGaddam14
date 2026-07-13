@@ -1,10 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:06b6d4&height=220&section=header&text=Lokesh%20Gaddam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descSize=17)
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer+%F0%9F%A4%96;Building+Production-Grade+AI+Systems+%F0%9F%9A%80;LangGraph+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+WebSockets;20-Day+AI+Build+Challenge+%E2%9C%85)](https://git.io/typing-svg)
-
-</div>
 
 ---
 

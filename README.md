@@ -8,7 +8,6 @@ Python · FastAPI · PostgreSQL · LangGraph · Java · TypeScript
 <br>
 Vijayawada, India · Open to AI software engineer and backend roles
 
-<!-- TODO: after you rename the portfolio repo, change the Portfolio link to https://lokeshgaddam14.github.io/ -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://lokeshgaddam14.github.io/Portofolio/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-gaddam-ai-engineer/)
 [![Email me](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgaddam2514@gmail.com)
@@ -20,11 +19,11 @@ Vijayawada, India · Open to AI software engineer and backend roles
 
 ## About
 
-B.Tech in Electronics & Communication Engineering with a Data Science specialization from KL University (2026, CGPA 8.39). I work on the backend side of AI products: pipelines that collect and clean data, LLM agents that work through it in controlled steps, and the APIs and dashboards that let a person see what happened.
+I'm a 2026 graduate (B.Tech in Electronics & Communication Engineering, Data Science specialization, KL University, CGPA 8.39) working on the backend side of AI products. That means pipelines that collect and clean data, LLM agents that work through it in controlled steps, and the APIs and dashboards that let a person see what happened.
 
 | Backend and APIs | AI agents | Data pipelines |
 | :-- | :-- | :-- |
-| FastAPI and Spring Boot services, REST design, async background jobs, JWT auth | LangGraph orchestration with typed state, structured outputs, retries, quality checks | Ingestion, extraction, enrichment and validation into PostgreSQL and MySQL |
+| FastAPI and Spring Boot services, REST design, async background jobs, JWT auth | LangGraph orchestration with typed state, structured outputs, retries and quality checks | Ingestion, extraction, enrichment and validation into PostgreSQL and MySQL |
 
 <br>
 
@@ -33,15 +32,13 @@ B.Tech in Electronics & Communication Engineering with a Data Science specializa
 | Project | What it does | Stack | Links |
 | :-- | :-- | :-- | :-- |
 | **PipelineAI** | Finds leads, scrapes their sites, enriches the data, and emails the prospects an AI decision step shortlists | Python, FastAPI, PostgreSQL, LangGraph, React | [Live demo](https://pipelineai-dashboard.onrender.com/) · [Code](https://github.com/LokeshGaddam14/pipelineai) |
-| **SalesIntelligenceAgent** | Three LangGraph agents research a company and a person, then write a summary, with an automated quality check | Python, FastAPI, LangGraph, FastMCP, React | [Code](https://github.com/LokeshGaddam14/ai_sales_intelligence) |
+| **SalesIntelligenceAgent** | Three LangGraph agents research a company and a person, then write a summary that passes an automated quality check | Python, FastAPI, LangGraph, FastMCP, React | [Code](https://github.com/LokeshGaddam14/ai_sales_intelligence) |
 | **delivr-engine** | Notification delivery with exponential backoff retries, audit logging and real-time analytics | Java, Spring Boot, MySQL, JWT | [Code](https://github.com/LokeshGaddam14/delivr-engine) |
 | **approval-workflow-engine** | Leave and work requests from ready-made templates, routed up to higher ops for approval | TypeScript | [Code](https://github.com/LokeshGaddam14/approval-workflow-engine) |
 | **ai-summarizer** | Paste a link, get a short AI summary of the page | JavaScript | [Live demo](https://ai-summarizer-peach-seven.vercel.app/) · [Code](https://github.com/LokeshGaddam14/ai-summarizer) |
 
-<!-- TODO: when SalesIntelligenceAgent, delivr-engine or approval-workflow-engine go live, add "[Live demo](URL) · " in front of "[Code]" in its row -->
-
-<!-- TODO: add a screenshot of the PipelineAI dashboard. Upload it to this repo as assets/pipelineai.png, then remove the comment markers around the next line. -->
-<!-- <p align="center"><img src="assets/pipelineai.png" width="85%" alt="PipelineAI dashboard"></p> -->
+> [!NOTE]
+> The hosted PipelineAI demo can take about a minute to wake up on first load. PipelineAI here is my own project and is not affiliated with the PipelineAI company.
 
 <br>
 
@@ -64,11 +61,6 @@ flowchart LR
 - FastAPI backend with six REST endpoints and async background tasks that run the pipeline
 - PostgreSQL storage for processed records, synced to HubSpot
 - React and TypeScript dashboard for pipeline status, lead data, email previews and analytics
-<!-- TODO: keep the next line only if you can explain how 92% was measured (dataset, number of examples, what counted as correct). Otherwise delete it. -->
-- 92% retrieval precision on enrichment benchmarks
-
-<!-- TODO: delete the next line once the hosted demo loads quickly -->
-<sub>The hosted demo can take a minute to wake up on first load.</sub>
 
 ### SalesIntelligenceAgent
 
@@ -88,7 +80,6 @@ flowchart LR
 - Automated output-quality check with scoring, validation and a controlled rewrite step before anything moves downstream
 - FastMCP server exposing five operational tools
 - React and TypeScript dashboard showing live run status
-<!-- TODO: confirm ai_sales_intelligence is the right repo for this project -->
 
 <br>
 

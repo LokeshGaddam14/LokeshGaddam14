@@ -1,8 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:06b6d4&height=220&section=header&text=Lokesh%20Gaddam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Building%20Production%20AI%20Systems&descAlignY=58&descSize=17)
 
-
-
----
 
 <div align="center">
 

@@ -4,138 +4,78 @@
 
 ---
 
-## 👨‍💻 About Me
+AI Software Engineer · Python, FastAPI, PostgreSQL, LangGraph · Vijayawada, India
 
-|  |  |  |
-|---|---|---|
-| 🎓 | **Education** | B.Tech ECE + Data Science @ KL University &nbsp;&#124;&nbsp; CGPA: 8.2 / 10 |
-| 💼 | **Role** | AI Automation Engineer |
-| 🔧 | **Stack** | Python · FastAPI · LangGraph · React · TypeScript · Redis · PostgreSQL |
-| 🤖 | **Specialty** | Multi-agent AI systems · Voice AI · Real-time pipelines |
-| 🚀 | **Currently** | 20-Day AI Automation Build Challenge — shipping production AI daily |
-| 🎯 | **Looking For** | AI Engineer · Full-Stack AI · Automation Engineer roles |
-| 📬 | **Contact** | [lokeshgaddam2514@gmail.com](mailto:lokeshgaddam2514@gmail.com) |
+I build backend systems that put LLMs inside real workflows: data pipelines, multi-agent orchestration, and the APIs and dashboards around them. B.Tech in Electronics & Communication Engineering (Data Science specialization), KL University, 2026, CGPA 8.39.
 
----
+Open to AI software engineer and backend roles.
 
-## 🏗️ Featured Project — Aria AI Voice Receptionist
+<!-- TODO: after you rename the portfolio repo, change the Portfolio link below to https://lokeshgaddam14.github.io/ -->
 
-> **Production-grade AI voice receptionist for dental clinics (Indian market)**
-> Built end-to-end in 19 days as part of a 20-day AI challenge
+Portfolio LinkedIn Email me
 
-```
-📞 Incoming Call → Bolna Voice Platform → FastAPI Backend
-        ↓                                        ↓
-   LangGraph Multi-Agent              Redis Session State
-   (Greeting → Booking                PostgreSQL Archival
-    → Info → Escalation)             Google Calendar API
-        ↓                            Twilio SMS/WhatsApp
-   Live Admin Dashboard  ←──── WebSocket Real-time Stream
-   (React + TypeScript)
-```
+Projects
+PipelineAI: lead discovery and outreach engine
 
-| Feature | Status |
-|---|---|
-| LangGraph multi-agent orchestration | ✅ Production |
-| Redis + PostgreSQL 2-tier memory | ✅ Production |
-| FastAPI REST API (25+ endpoints) | ✅ Production |
-| React admin dashboard (7 pages) | ✅ Production |
-| Bolna voice integration + webhooks | ✅ Production |
-| Real-time live call monitoring | ✅ Production |
-| CSV / PDF export & analytics | ✅ Production |
-| Google Calendar + Twilio | ✅ Production |
+Finds leads, scrapes their websites for emails and pain points, enriches the data, and lets an AI decision step shortlist the prospects who then get a cold email automatically. Results sync to HubSpot.
 
-**6,200+ lines of code · 25+ API endpoints · 7 dashboard pages**
+Three-stage LangGraph pipeline (scrape, analyze, enrich) with typed state, structured JSON outputs, and retry handling
+FastAPI backend with six REST endpoints and async background tasks that run the pipeline
+PostgreSQL storage for processed records
+React + TypeScript dashboard for pipeline status, lead data, email previews, and analytics
+<!-- TODO: only keep the next line if you can explain exactly how 92% was measured (dataset, number of examples, what counted as correct). Otherwise delete it. -->
+92% retrieval precision on enrichment benchmarks
 
-🔗 [**View Repository →**](https://github.com/LokeshGaddam14/ai-automation-engineer-journey)
+Stack: Python, FastAPI, PostgreSQL, LangGraph, Groq, Apify, Hunter.io, HubSpot API, Docker, React, TypeScript
 
----
+Live dashboard · Code
 
-## 🛠️ Tech Stack
+<!-- TODO: delete this note once the hosted demo loads quickly -->
 
-**AI & Agents**
+The hosted demo can be slow on first load.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+SalesIntelligenceAgent: multi-agent research system
 
-**Backend & APIs**
+Takes a lead through discovery, enrichment, scoring, company research, person research, and a final synthesis, then syncs to the CRM.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Three LangGraph agents (company research, person research, synthesis) passing structured state with deterministic control flow
+Automated output-quality check: scoring, validation, and a controlled rewrite step before anything goes downstream
+FastMCP server exposing five operational tools
+React + TypeScript dashboard showing live execution status
 
-**Frontend**
+Stack: Python, FastAPI, PostgreSQL, LangGraph, FastMCP, Apify, Hunter.io, HubSpot, Instantly, Docker, React, TypeScript
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+Status: not deployed yet. Code
 
-**Integrations**
+<!-- TODO: confirm ai_sales_intelligence is the right repo for this project -->
+delivr-engine: notification delivery engine
 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Bolna](https://img.shields.io/badge/Bolna_Voice-6366F1?style=for-the-badge&logo=webrtc&logoColor=white)
+A production-style notification delivery service with exponential backoff retry, audit logging, and real-time analytics, secured with JWT.
 
----
+Stack: Java, Spring Boot, MySQL, JWT
 
-## 📅 20-Day AI Automation Challenge
+Status: not deployed yet. Code
 
-| Day | Project | Status |
-|-----|---------|--------|
-| Day 1–5 | AI foundations, LangChain basics, prompt engineering | ✅ |
-| Day 6–10 | Multi-agent systems, RAG pipelines, tool use | ✅ |
-| Day 11–13 | Automation workflows, API integrations | ✅ |
-| Day 14 | Redis + PostgreSQL memory layer | ✅ |
-| Day 15 | LangGraph orchestration + Google Calendar + Twilio | ✅ |
-| Day 16 | FastAPI backend with 25+ endpoints + Docker | ✅ |
-| Day 17 | React + TypeScript admin dashboard | ✅ |
-| Day 18 | Advanced analytics, CSV/PDF exports, filters | ✅ |
-| Day 19 | Bolna voice integration + live call monitoring | ✅ |
-| Day 20 | Portfolio polish + production deployment | 🔄 |
+approval-workflow-engine: request and approval workflows
 
-🔗 [**Follow the full journey →**](https://github.com/LokeshGaddam14/ai-automation-engineer-journey)
+Employees raise leave requests and work requests from ready-made templates, and the requests route up to higher ops in the organization for approval.
 
----
+Stack: TypeScript
 
-## 📊 GitHub Stats
+Status: not deployed yet. Code
 
-<div align="center">
+ai-summarizer: small demo
 
-<img src="https://github-readme-stats.vercel.app/api?username=LokeshGaddam14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=a855f7&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshGaddam14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=ffffff" height="165" />
+Paste a link, get a short AI summary of the page.
 
-</div>
+Live demo · Code
 
-<div align="center">
+Other work
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LokeshGaddam14&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a855f7&currStreakLabel=6366f1)](https://git.io/streak-stats)
+Freelance automation (2025 to present). Built n8n and Python automations for lead ingestion, qualification, enrichment, CRM sync, and email notifications. Used Apify Google Maps extraction to produce 55 qualified dental clinic leads in a structured sheet for field sales. Debugged live workflow failures, including payload field mismatches and exposed credentials.
 
-</div>
+Earlier data science projects (Jupyter notebooks): loan default analysis, credit risk, fraud detection, SaaS churn.
 
----
+Skills
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-gaddam-ai-engineer/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LokeshGaddam14)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshgaddam2514@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6366f1&height=100&section=footer)
-
-*"Shipping production AI systems, one day at a time."* 🚀
-
-</div>
+Languages: Python, async Python, Java, TypeScript, SQL Backend: FastAPI, Spring Boot, REST API design, background task processing, API integration Data: PostgreSQL, MySQL, SQLite, data ingestion, validation, transformation pipelines AI: LangGraph, LangChain, RAG, ChromaDB, structured outputs, multi-agent orchestration Frontend: React, TypeScript, Tailwind CSS, Vite DevOps and tools: Docker, Render, Vercel, Git, n8n, Apify
